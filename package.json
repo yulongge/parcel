@@ -4,6 +4,7 @@
   "description": "test parcel",
   "main": "index.js",
   "scripts": {
+    "start": "parcel ./src/index.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -16,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/yulongge/parcel/issues"
   },
-  "homepage": "https://github.com/yulongge/parcel#readme"
+  "homepage": "https://github.com/yulongge/parcel#readme",
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  }
 }
