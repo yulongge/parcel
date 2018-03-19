@@ -65,7 +65,7 @@ console.log("hello world!");
 
 ```shell
 parcel index.html
-````
+```
 
 使用`-p <port number>`选项覆盖默认端口(默认的端口号是`1234`)。
 
