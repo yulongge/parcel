@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import logo from '../assets/images/react.svg';
+import logo from '../assets/images/yulong.jpeg';
 
 import './App.css';
 
@@ -9,10 +9,10 @@ export default class App extends Component {
       <div className="App">
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
-          <h1 className="App-title">Welcome to React</h1>
+          <h1 className="App-title">Welcome to My World</h1>
         </header>
         <p className="App-intro">
-          To get started, edit <code>src/App.js</code> and save to reload.
+			As lazy as possible
         </p>
       </div>
     );
